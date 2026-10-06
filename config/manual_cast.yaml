@@ -1,0 +1,10 @@
+# Official releases whose YouTube title and description opening do not name the cast.
+# Each entry adds the listed actors to that video so it is matched to the couple.
+# Source: public cast listings for the films (e.g. Vanguard, YNaija coverage of 2025 releases).
+videos:
+  - video_id: bslcx4LRFL0
+    title: Love in Every Word (Omoni Oboli TV, 2025)
+    actors: [Uzor Arukwe, Bamike Olawunmi]
+  - video_id: OQQaDqLCgKg
+    title: "Love in Every Word 2: The Wedding (Omoni Oboli TV, 2025)"
+    actors: [Uzor Arukwe, Bamike Olawunmi]
