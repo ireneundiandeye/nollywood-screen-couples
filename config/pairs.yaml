@@ -1,0 +1,94 @@
+# Recurring romantic lead pairings in YouTube-era Nollywood (~2020-present).
+# Each actor has a list of name variants used to match video titles and descriptions.
+# Starter list compiled from Nigerian entertainment coverage (Pulse, Legit.ng,
+# WithinNigeria, Vanguard, Zikoko); review and extend before the final analysis.
+
+settings:
+  published_after: "2019-01-01T00:00:00Z"   # YouTube-distribution era
+  pages_per_pair: 2                          # 50 results per page; each page costs 100 quota units
+  min_duration_minutes: 60                   # full films only, excludes trailers and clips
+
+pairs:
+  - id: arukwe_olawunmi
+    actors:
+      - name: Uzor Arukwe
+        aliases: ["Uzor Arukwe"]
+      - name: Bamike Olawunmi
+        aliases: ["Bamike Olawunmi", "BamBam", "Bam Bam", "Bamike"]
+
+  - id: sam_uche
+    actors:
+      - name: Maurice Sam
+        aliases: ["Maurice Sam"]
+      - name: Sonia Uche
+        aliases: ["Sonia Uche"]
+
+  - id: sam_montana
+    actors:
+      - name: Maurice Sam
+        aliases: ["Maurice Sam"]
+      - name: Uche Montana
+        aliases: ["Uche Montana"]
+
+  - id: egbuson_ademoye
+    actors:
+      - name: Timini Egbuson
+        aliases: ["Timini Egbuson", "Timini"]
+      - name: Bimbo Ademoye
+        aliases: ["Bimbo Ademoye"]
+
+  - id: etimeffiong_ogunmola
+    actors:
+      - name: Daniel Etim-Effiong
+        aliases: ["Daniel Etim-Effiong", "Daniel Etim Effiong", "Etim Effiong", "Etim-Effiong"]
+      - name: Bolaji Ogunmola
+        aliases: ["Bolaji Ogunmola"]
+
+  - id: etimeffiong_ademoye
+    actors:
+      - name: Daniel Etim-Effiong
+        aliases: ["Daniel Etim-Effiong", "Daniel Etim Effiong", "Etim Effiong", "Etim-Effiong"]
+      - name: Bimbo Ademoye
+        aliases: ["Bimbo Ademoye"]
+
+  - id: ogbonna_ogunmola
+    actors:
+      - name: IK Ogbonna
+        aliases: ["IK Ogbonna", "Ik Ogbonna", "Ikechukwu Ogbonna"]
+      - name: Bolaji Ogunmola
+        aliases: ["Bolaji Ogunmola"]
+
+  - id: umenwa_odimgbe
+    actors:
+      - name: Ekene Umenwa
+        aliases: ["Ekene Umenwa"]
+      - name: Stephen Odimgbe
+        aliases: ["Stephen Odimgbe", "Flash Boy", "Flashboy"]
+
+  - id: adeolu_jones
+    actors:
+      - name: Saga Adeolu
+        aliases: ["Saga Adeolu", "Okusaga Adeoluwa", "Okusaga Adeolu", "Saga Deolu"]
+      - name: Detola Jones
+        aliases: ["Detola Jones"]
+
+  - id: adeolu_montana
+    actors:
+      - name: Saga Adeolu
+        aliases: ["Saga Adeolu", "Okusaga Adeoluwa", "Okusaga Adeolu", "Saga Deolu"]
+      - name: Uche Montana
+        aliases: ["Uche Montana"]
+
+  - id: dike_montana
+    actors:
+      - name: Chidi Dike
+        aliases: ["Chidi Dike"]
+      - name: Uche Montana
+        aliases: ["Uche Montana"]
+
+  - id: arukwe_ademoye
+    actors:
+      - name: Uzor Arukwe
+        aliases: ["Uzor Arukwe"]
+      - name: Bimbo Ademoye
+        aliases: ["Bimbo Ademoye"]
