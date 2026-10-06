@@ -1,0 +1,31 @@
+# Official release channels for the screen-couple films (producer and actor channels).
+# Selection rule, from the first search collection (videos_2026-10-06.csv):
+#   channels where the couples' full films have median views >= 1,000,000 and
+#   the channel has >= 100,000 subscribers, plus channels named after the actors.
+# Excluded: French-dubbed re-release channels (FRENCHTV247, Meilleur de French TV,
+#   Uchenna Mbunabo French Tv) and aggregator/re-upload channels.
+# Review and extend as needed.
+
+channels:
+  - {id: UCjcFNZE51DmSrGYBqixs0Ug, title: RuthKadiri247}
+  - {id: UCneM4DHHUWMVwmYktz8X46g, title: Bimbo Ademoye TV}
+  - {id: UCGRC6hm8mD8WqeY0auwrCrQ, title: Uche Montana TV}
+  - {id: UCHY9J0IWIWht6GqIBiLidBA, title: Sonia Uche Tv}
+  - {id: UCThviXLHvH8VwqxQEa4vZaw, title: Maurice Sam TV}
+  - {id: UCypAoMCRQuNL2RBwy-x4oQg, title: Uchenna Mbunabo Tv}
+  - {id: UCPIJsFthtewO-NVgMojgSwA, title: ENYINNA JONAS TV}
+  - {id: UCVVs7iCZgDTBi7nPs4m4ksg, title: Uduak Isong TV}
+  - {id: UCzKrLr1ZD1uds-7c7vaSjVA, title: Uche Nancy tv}
+  - {id: UCqxprLDy_2hMQ7aQp_4NNuA, title: BOLAJI OGUNMOLA TV}
+  - {id: UCm6NRZvIcYwpj79CIa1Lj9g, title: IBAKATV}
+  - {id: UC0M6BJj039bknQaHNiiOekA, title: NollyFamily tv}
+  - {id: UCbvdwZvZgdl-pPyomEmaEfg, title: Omoni Oboli TV}
+  - {id: UCPjpDLbIVgco6Vv6_G5N2sg, title: BASEFLIX TV}
+  - {id: UCkom0_a35yMP4dSumwOHpqw, title: Reemmy Jes Tv}
+  - {id: UCnZ28GESUBXyZSIvzcs1RXA, title: ChinneyLoveEze Tv}
+  - {id: UCNL6JutHsTjziKjmVtWnB1A, title: EKENE UMENWA TV}
+  - {id: UCMfmqpgjzeZM-fcV8Y2EYAA, title: NOLLYWOOD ROMANCE TV}
+  - {id: UCaZ3kBNTfoM5FRzWpq-dx2Q, title: SYLVIA EZE TV}
+  - {id: UCvPHJ8lJy7kZ_aJYZMuii2Q, title: Nolly MovieRoom}
+  - {id: UCqePXuC7OuaB4dueOgn3QHg, title: Ik Ogbonna tv}
+  - {id: UCm48iWsQzVbAgNBjW_XXtMA, title: WATCH TIMINI TV}
